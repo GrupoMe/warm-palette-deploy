@@ -149,7 +149,7 @@
   }
 
   .faq-answer {
-    color: hsl(var(--primary));
+    color: hsl(var(--primary-foreground));
     @apply text-base mt-2;
   }
 }
