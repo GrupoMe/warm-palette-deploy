@@ -139,7 +139,7 @@
   }
 
   .benefit-card-text {
-    color: hsl(var(--primary-foreground));
+    color: hsl(var(--primary));
     @apply text-base;
   }
 
@@ -149,7 +149,7 @@
   }
 
   .faq-answer {
-    color: hsl(var(--primary-foreground));
+    color: hsl(var(--primary));
     @apply text-base mt-2;
   }
 }
