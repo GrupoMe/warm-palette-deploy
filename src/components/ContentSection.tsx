@@ -34,7 +34,7 @@ const ContentSection = () => {
               </h3>
               <ul className="space-y-2">
                 {block.items.map((item) => (
-                  <li key={item} className="flex items-start gap-2 text-cream text-base">
+                  <li key={item} className="flex items-start gap-2 text-primary text-base">
                     <span className="text-highlight mt-0.5">•</span>
                     <span>{item}</span>
                   </li>
