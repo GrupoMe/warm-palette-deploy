@@ -43,7 +43,7 @@ const BenefitsSection = () => {
           <span className="text-cream">?</span>
         </h2>
         <p className="text-cream text-center mb-10 text-lg">
-          Com o e-book Venda com Propósito, você vai:
+          Com o Curso Venda com Propósito, você vai:
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl mx-auto">
@@ -56,7 +56,7 @@ const BenefitsSection = () => {
         </div>
 
         <div className="text-center mt-10">
-          <a href="#formulario" className="btn-cta">
+          <a href="https://chk.eduzz.com/cunqlgkg" className="btn-cta">
             Quero vender com propósito
           </a>
         </div>
