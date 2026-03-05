@@ -21,9 +21,7 @@ const Index = () => {
 
       <footer className="section-dark py-6 border-t border-secondary/20">
         <div className="container text-center">
-          <p className="text-cream/60 text-sm">
-            © 2025 Com Propósito — Todos os direitos reservados.
-          </p>
+          <p className="text-cream/60 text-sm">© 2026 RCube — Todos os direitos reservados.</p>
         </div>
       </footer>
     </main>
